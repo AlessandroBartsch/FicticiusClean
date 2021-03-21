@@ -1,0 +1,5 @@
+INSERT INTO VEICULO(nome, marca, modelo, ano_fabricacao, km_por_litro_cidade, km_por_litro_rodovia) VALUES('Parati', 'Volkswagen', 'City 1.6 MI', 2005, 10.7, 15.5);
+INSERT INTO VEICULO(nome, marca, modelo, ano_fabricacao, km_por_litro_cidade, km_por_litro_rodovia) VALUES('Parati', 'Volkswagen', 'Surf 1.6', 2009, 9.3, 11.9);
+INSERT INTO VEICULO(nome, marca, modelo, ano_fabricacao, km_por_litro_cidade, km_por_litro_rodovia) VALUES('Montana', 'Chevrolet', 'Sport 1.4', 2018, 11.7, 13.4);
+INSERT INTO VEICULO(nome, marca, modelo, ano_fabricacao, km_por_litro_cidade, km_por_litro_rodovia) VALUES('Fiorino', 'Fiat', 'Furgão 1.4 Evo', 2015, 11, 12.2);
+INSERT INTO VEICULO(nome, marca, modelo, ano_fabricacao, km_por_litro_cidade, km_por_litro_rodovia) VALUES('Uno', 'Fiat', 'Vivace 1.0', 2015, 12.3, 14.5);
